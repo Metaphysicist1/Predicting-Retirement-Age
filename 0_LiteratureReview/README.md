@@ -57,14 +57,18 @@ Approaches or solutions that have been tried before on similar projects.
     - helpful to identify key variables that can be usefull to feed into our model
     - decision tree model a a potential classification model 
 
-- **Source 3**: [Title of Source 3]
+- **Source 3**: [Does Machine Learning Offer Added Value Vis-à-Vis Traditional Statistics? An Exploratory Study on Retirement Decisions Using Data from the Survey of Health, Ageing, and Retirement in Europe (SHARE)]
 
-  - **[Link]()**
+  - **[Link](Predicting depression in old age: Combining life course data with machine learning)**
   - **Objective**:
+  - Estimation the risk of depression in old age by combining adult life trajectories and childhood conditions in supervised machine learning algorithms using SHARE dataset.
   - **Methods**:
+  - 6 alternative (machine learning) models starting with basic logistic regression (fitting with Maximum Likelihood Estimator) and then applying regularization methods (logistic regression with lasso, ridge and elastic-net penalties); tree-based methods (Extreme Gradient Boosting XGBoost) and an artificial neural network.
   - **Outcomes**:
+  - According to researchers age, health, childhood conditions, and low education predict most depression risk later in life, researchers therefore identified new predictive patterns in indicators of life course instability and low utilization of dental care services. 
   - **Relation to the Project**:
-
+  - Prediction of depression among elderly people is important, because depression has been found a significant predictor of productivity (and therefore important due to chaning demographics) additionally it depression is costly for economics ( due to labor loss).
+  So the medical conditions that lead to depression should therefore be important variables when estimating retirement age (depressed people retire earlier). 
 - **Source 4**: [Survey of Health, Ageing and Retirement in Europe (SHARE) - Dataset]
 
   - **[Link](https://share-eric.eu/data/)**
