@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-[https://github.com/Metaphysicist1/aging_project_flow]
+[https://github.com/Metaphysicist1/Predicting-Retirement-Age/]
 
 ## Description
 
@@ -38,8 +38,7 @@ Classification
    Presentation slides summarizing the project methodology, results, and policy implications.
 
 ## Cover Image
-
-![Project Cover Image](CoverImage/cover_image.png)
+![Sharelogos50+_rz-2](https://github.com/user-attachments/assets/3331ab31-42b3-4ce7-8ca6-ce56ad597236)
 
 ## Citations
 
@@ -49,5 +48,6 @@ Classification
 ## Notes
 
 - **Data Access**: The SHARE Wave 6 dataset is available through the SHARE Research Data Center (http://www.share-project.org) upon registration and compliance with data usage agreements.
-- **Ethical Use**: Ensure ethical handling of sensitive health and socio-economic data as per SHARE guidelines.
+- **Ethical Use**: Ensure 
+ethical handling of sensitive health and socio-economic data as per SHARE guidelines.
 - **Dependencies**: Python (pandas, scikit-learn, XGBoost, matplotlib, seaborn) for analysis and modeling.
