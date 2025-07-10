@@ -1,4 +1,5 @@
-# MLAGE.AI
+# About
+Predicting Retirement Age
 
 ## Repository Link
 
@@ -6,7 +7,8 @@
 
 ## Description
 
-MLAGE.AI is a data science project focused on predicting retirement age using advanced machine learning techniques applied to the Survey of Health, Ageing and Retirement in Europe (SHARE) Wave 6 dataset. This longitudinal micro-data infrastructure provides rich information on health, socio-economic factors, and retirement behaviors of individuals aged 50+ across 17 European countries and Israel. The project aims to uncover insights into the aging process and inform policy by developing robust classification models to predict retirement age categories (e.g., early, normal, late). Key steps include comprehensive data preprocessing, model development, and evaluation, with a focus on bio-medical and socio-economic predictors.
+About
+This is a data science project focused on predicting retirement age using advanced machine learning techniques applied to the Survey of Health, Ageing and Retirement in Europe (SHARE) Wave 6 dataset. This longitudinal micro-data infrastructure provides rich information on health, socio-economic factors, and retirement behaviors of individuals aged 50+ across 17 European countries and Israel. The project aims to uncover insights into the aging process and inform policy by developing robust classification models to predict retirement age categories (e.g., early, normal, late). Key steps include comprehensive data preprocessing, model development, and evaluation, with a focus on bio-medical and socio-economic predictors.
 
 **Acknowledgment**: This project uses data from SHARE Wave 6 (DOI: [insert relevant DOI]), see Börsch-Supan et al. (2013) for methodological details.
 
