@@ -1,5 +1,4 @@
-# About
-Predicting Retirement Age
+# Predicting Retirement Age
 
 ## Repository Link
 
